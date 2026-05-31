@@ -13,6 +13,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dragoneena12&show_icons=true&theme=tokyonight)
+## 👋 Hi there
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dragoneena12&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+- I am a SWE and SRE from Tokyo🗼.
+- I love Kubernetes, Go and dragons🐉.
+
+<!-- 3. 好きな技術スタックに変更 -->
+<!-- ライトモート：theme=light, ダークモート：theme=dark -->
+<!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
+## 🌱 Skills
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&i=html,css,js,ts,react,go,docker,kubernetes,terraform,aws" />
+
